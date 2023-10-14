@@ -1,3 +1,3 @@
 # Website-Deobfuscator
 
-deobfuscates the 'character entitles' and 'combined' obfuscation methods and saves it to a .html
+deobfuscates the 'character entitles' and 'js + character entitles' obfuscation methods and saves it to a .html
