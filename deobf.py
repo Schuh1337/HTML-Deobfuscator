@@ -1,6 +1,4 @@
-import re
-import html
-import os
+import re, html, os
 
 def deobfuscate(obfuscated):
     decode = html.unescape(obfuscated)
