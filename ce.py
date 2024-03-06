@@ -6,7 +6,7 @@ def deobfuscate(obfuscated):
     decode = re.sub(r'<noscript>.*?</noscript>', '', decode, flags=re.DOTALL)
     return decode
 
-obfuscated = """ HERE """  # <-- full obfuscated code here
+obfuscated = """ HERE """  # <-- obfuscated string here
 
 deobf = deobfuscate(obfuscated)
 
